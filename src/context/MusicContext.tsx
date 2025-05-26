@@ -1,4 +1,5 @@
 import React, { createContext, useState, useContext, useEffect } from 'react';
+import musicFile from '../music/PUN - DAY ONE.mp3';
 
 interface MusicContextType {
   isPlaying: boolean;
@@ -28,7 +29,7 @@ export const musicTracks = [
     id: 1,
     title: "DAY ONE",
     artist: "PUN",
-    url: "/src/music/PUN - DAY ONE.mp3",
+    url: musicFile,
     cover: "https://images.pexels.com/photos/1616470/pexels-photo-1616470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   {
