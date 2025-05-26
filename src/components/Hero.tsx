@@ -56,12 +56,7 @@ const Hero: React.FC<HeroProps> = ({ birthdayDate, name }) => {
   return (
     <section 
       id="hero" 
-      className="min-h-screen flex items-center justify-center relative overflow-hidden"
-      style={{
-        backgroundImage: `url(${images.heroBg})`,
-        backgroundSize: "cover",
-        backgroundPosition: "center"
-      }}
+      className="min-h-screen flex items-center justify-center relative overflow-hidden hero-bg"
     >
       {showConfetti && <Confetti width={width} height={height} recycle={false} />}
       

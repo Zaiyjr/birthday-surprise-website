@@ -148,6 +148,8 @@ const VideoSection: React.FC = () => {
               src={videos[currentVideo].url}
               poster={videos[currentVideo].thumbnail}
               preload="metadata"
+              playsInline
+              controls={false}
             />
             
             {/* Play/pause overlay */}

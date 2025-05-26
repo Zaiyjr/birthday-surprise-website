@@ -113,3 +113,10 @@ input[type="range"]::-moz-range-thumb {
   cursor: pointer;
   border: none;
 }
+
+.hero-bg {
+  background-image: url('/images/att.DfKXTnEb_-IWodb1X0SxSEp1mJY-GMMxdvceRcad2rw.JPG');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
