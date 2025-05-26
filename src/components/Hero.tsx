@@ -5,6 +5,7 @@ import { useWindowSize } from 'react-use';
 import { motion } from 'framer-motion';
 import { Tilt } from 'react-tilt';
 import toast from 'react-hot-toast';
+import { images } from '../data/images';
 
 interface HeroProps {
   birthdayDate: Date;
@@ -57,7 +58,7 @@ const Hero: React.FC<HeroProps> = ({ birthdayDate, name }) => {
       id="hero" 
       className="min-h-screen flex items-center justify-center relative overflow-hidden"
       style={{
-        backgroundImage: "url('/src/images/att.DfKXTnEb_-IWodb1X0SxSEp1mJY-GMMxdvceRcad2rw.JPG')",
+        backgroundImage: `url(${images.heroBg})`,
         backgroundSize: "cover",
         backgroundPosition: "center"
       }}

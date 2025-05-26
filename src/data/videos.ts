@@ -1,9 +1,7 @@
-import videoFile from '../videos/IMG_0923.mp4';
-
 export const videos = [
   {
-    url: videoFile,
-    thumbnail: videoFile,
+    url: "/videos/IMG_0923.mp4",
+    thumbnail: "/videos/IMG_0923.mp4",
     duration: "3:45"
   },
 ];

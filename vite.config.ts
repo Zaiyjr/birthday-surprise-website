@@ -22,4 +22,5 @@ export default defineConfig({
     },
   },
   publicDir: 'public',
+  assetsInclude: ['**/*.jpg', '**/*.png', '**/*.gif', '**/*.mp4', '**/*.mp3', '**/*.webp', '**/*.jpeg', '**/*.JPG', '**/*.JPEG', '**/*.PNG'],
 });
