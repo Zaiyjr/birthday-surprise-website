@@ -31,20 +31,7 @@ export const musicTracks = [
     url: "/music/PUN - DAY ONE.mp3",
     cover: "https://images.pexels.com/photos/1616470/pexels-photo-1616470.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
-  {
-    id: 2,
-    title: "First Dance",
-    artist: "Artist Name",
-    url: "https://example.com/song2.mp3",
-    cover: "https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-  },
-  {
-    id: 3,
-    title: "Road Trip Memories",
-    artist: "Artist Name",
-    url: "https://example.com/song3.mp3",
-    cover: "https://images.pexels.com/photos/1573324/pexels-photo-1573324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
-  }
+
 ];
 
 const MusicContext = createContext<MusicContextType>(defaultContext);
