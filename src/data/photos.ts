@@ -1,125 +1,125 @@
 export const photos = {
   carouselPhotos: [
     {
-      url: "../public/images/IMG_1745504963456.JPEG",
+      url: "/images/IMG_1745504963456.JPEG",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_2280.png",
+      url: "/images/IMG_2280.png",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_0961.jpg",
+      url: "/images/IMG_0961.JPG",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_0774.JPG",
+      url: "/images/IMG_0774.JPG",
       title: "",
       description: ""
     },
     {
-      url: "../plubic/images/img1.JPEG",
+      url: "/images/img1.jpeg",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/img2.jpg",
+      url: "/images/img2.jpg",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/img3.jpg",
+      url: "/images/img3.JPG",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/img9.jpg",
+      url: "/images/img9.JPG",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_0920.jpg",
+      url: "/images/IMG_0920.JPG",
       title: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_9990.jpg",
+      url: "/images/IMG_9990.JPG",
       title: "",
       description: ""
     },
   ],
   galleryPhotos: [
     {
-      url: "../public/images/32540DFB-A30B-4607-A398-3094BEAA5312 3.png",
+      url: "/images/32540DFB-A30B-4607-A398-3094BEAA5312 3.PNG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/att.1Woi4HPt8lvMcwUbHBe-QKdvR5B3mmLiICqliKqT_S4.jpg",
+      url: "/images/att.1Woi4HPt8lvMcwUbHBe-QKdvR5B3mmLiICqliKqT_S4.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/att.DfKXTnEb_-IWodb1X0SxSEp1mJY-GMMxdvceRcad2rw.jpg",
+      url: "/images/att.DfKXTnEb_-IWodb1X0SxSEp1mJY-GMMxdvceRcad2rw.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/img6.jpg",
+      url: "/images/img6.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/img16.jpeg",
+      url: "/images/img16.jpeg",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_9988.jpg",
+      url: "/images/IMG_9988.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_0899.jpg",
+      url: "/images/IMG_0899.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/IMG_0901.jpg",
+      url: "/images/IMG_0901.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/img11.jpg",
+      url: "/images/img11.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/img12.jpg",
+      url: "/images/img12.JPG",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/img14.jpeg",
+      url: "/images/img14.jpeg",
       title: "",
       date: "",
       description: ""
     },
     {
-      url: "../public/images/img17.jpeg",
+      url: "/images/img17.jpeg",
       title: "",
       date: "",
       description: ""
